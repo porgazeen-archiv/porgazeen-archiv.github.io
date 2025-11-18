@@ -183,6 +183,7 @@ li {
 }
 
 /*zobrazovani popupu*/
+#cudlik89:checked ~ #overlay89 { display: block; }
 #cudlik88:checked ~ #overlay88 { display: block; }
 #cudlik87:checked ~ #overlay87 { display: block; }
 #cudlik86:checked ~ #overlay86 { display: block; }
